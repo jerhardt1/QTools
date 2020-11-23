@@ -1,0 +1,5 @@
+# Don't track content of the folders
+__pycache__/
+
+# editor #
+*.code-workspace
